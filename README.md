@@ -43,7 +43,7 @@ All visuals are **dynamic and fully interactive**, with filters (slicers) allowi
 🔗 **View the live interactive dashboard on Tableau Public:**  
 [Car Sales Dashboard](https://public.tableau.com/app/profile/rania.elwan/viz/Book2_17610029490220/Dashboard)
 
-![Dashboard Preview](t2.png)
+![Dashboard Preview](t2.PNG)
 
 ---
 
